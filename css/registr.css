@@ -18,7 +18,7 @@
 h3{
     background-color: lightblue;
     position: absolute;
-left: 1000px;
+left: 1050px;
 top: 250px;
 font-size: x-large;
 width: 300px;
@@ -34,7 +34,7 @@ left: 800px;
 
 .form{
 position: absolute;
-left: 800px;
+left: 700px;
 text-align: center;
 top: 170px;
 width: 300px;
