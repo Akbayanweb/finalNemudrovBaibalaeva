@@ -1,0 +1,250 @@
+body{
+    background-image: url(http://wonderfulengineering.com/wp-content/uploads/2014/01/Technology-Wallpaper-12.jpg);
+}
+
+.body_hide {
+  opacity: 0;
+  transition: .7s opacity ease-in-out;
+}
+.body_visible {
+  opacity: 1;
+}
+
+ .form {
+    font-size: 22px;
+    position: absolute;
+    top: 110px;
+    left: 800px;
+ }
+ .table.table-bordered {
+    font-weight: 700;
+    font-size: 22px;
+    position: absolute;
+    top: 600px;
+    left: 680px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    background-color: yellow;
+ }
+
+ .formlabel {
+    padding-bottom: 15px;
+ }
+
+.border{
+    border-style: dotted;
+    background-color: orange;
+
+}
+
+input{
+    font-size: large;
+}
+
+
+#img{
+    
+    
+    margin: 0px 50px;
+}
+.header-images{
+    margin: 20px 500px;
+}
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin: auto;  
+    text-align: center;
+}
+
+
+#tblList thead{
+    background: darkred;
+    color: white;
+    width:100%;
+}
+
+.form-group{
+
+    top: 50px;
+}
+
+button {
+    width: 150px;
+    height: 70px;
+    border-radius: 10px;
+    color: #333;
+    font-size: 18px;
+background-color: red;
+position: absolute;
+left: 100px;
+
+}
+
+label{
+    background-color: purple;
+    color: yellow;
+}
+
+h1{
+    background-color: pink;
+    text-align: center;
+}
+
+h3{
+    background-color: lightblue;
+    position: absolute;
+left: 170px;
+font-size: x-large;
+}
+
+@media (max-width: 1359px) {
+   h3{
+    
+    position: absolute;
+    left: 470px;
+
+}
+
+   .form {
+
+    position: absolute;
+    top: 250px;
+    left: 550px;
+ }
+ .table.table-bordered {
+   
+    position: absolute;
+    top: 700px;
+    left: 420px;
+   }
+
+ #footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  
+}
+}
+
+@media (max-width: 1200px) {
+   h3{
+    
+    position: absolute;
+    left: 400px;
+
+}
+
+   .form {
+
+    position: absolute;
+    top: 250px;
+    left: 500px;
+ }
+ .table.table-bordered {
+   
+    position: absolute;
+    top: 700px;
+    left: 400px;
+   }
+
+ #footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  
+}
+
+}
+
+@media (max-width: 992px) {
+   h3{
+    
+    position: absolute;
+    left: 300px;
+
+}
+
+   .form {
+
+    position: absolute;
+    top: 250px;
+    left: 380px;
+ }
+ .table.table-bordered {
+   
+    position: absolute;
+    top: 700px;
+    left: 280px;
+   }
+
+ #footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  
+}
+
+}
+@media (max-width: 768px) {
+   h3{
+    
+    position: absolute;
+    left: 170px;
+
+}
+
+   .form {
+
+    position: absolute;
+    top: 250px;
+    left: 250px;
+ }
+ .table.table-bordered {
+   
+    position: absolute;
+    top: 700px;
+    left: 130px;
+   }
+
+ #footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  
+}
+
+}
+
+
+@media (max-width: 576px) {
+   h3{
+    width: 380px;
+    position: absolute;
+    left: 100px;
+
+}
+
+   .form {
+
+    position: absolute;
+    top: 290px;
+    left: 120px;
+ }
+ .table.table-bordered {
+   
+    position: absolute;
+    top: 800px;
+    left: 50px;
+   }
+
+ #footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  
+}
+
+}

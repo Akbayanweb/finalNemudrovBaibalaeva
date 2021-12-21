@@ -1,0 +1,191 @@
+  body {
+            background-image: url("https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526fee2036a67f07f1.gif");
+   font-smoothing: antialiased;
+     font-family: "Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: .75em;
+    line-height: 1.4;
+
+}
+
+.body_hide {
+  opacity: 0;
+  transition: .7s opacity ease-in-out;
+}
+.body_visible {
+  opacity: 1;
+}
+
+#canvas{
+border-style: solid;
+border-radius: 50px;
+position: absolute;
+left: 800px;
+}
+
+.form{
+position: absolute;
+left: 800px;
+text-align: center;
+top: 170px;
+width: 300px;
+
+}
+
+input{
+    font-size: large;
+    text-align: center;
+    border: solid;
+    border-color: green;
+    border-radius: 100px;
+    padding: 25px;
+}
+
+
+.projects {
+    margin: 100px auto 30px;
+}
+
+.login-ways p, .signin {
+    text-align: center;
+}
+
+div {
+    display: block;
+}
+
+img{
+    position: absolute;
+    left: 600px;
+    bottom: 540px;
+    width: 350px;
+    height: 40px;
+}
+
+label{
+    background-color: yellow;
+    font-size: large;
+}
+
+button{
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: pink;
+    font-size: large;
+
+}
+@media (max-width: 1368px) {
+   
+   .form{
+position: absolute;
+left: 500px;
+text-align: center;
+top: 170px;
+width: 300px;
+}
+
+#canvas{
+
+position: absolute;
+left: 500px;
+}
+}
+
+@media (max-width: 1284px) {
+   
+   .form{
+position: absolute;
+left: 400px;
+text-align: center;
+top: 170px;
+width: 300px;
+}
+
+#canvas{
+
+position: absolute;
+left: 400px;
+}
+}
+
+@media (max-width: 1024px) {
+   
+   .form{
+position: absolute;
+left: 360px;
+text-align: center;
+top: 170px;
+width: 300px;
+
+}
+#canvas{
+
+position: absolute;
+left: 360px;
+}
+}
+
+@media (max-width: 910px) {
+   
+   .form{
+position: absolute;
+left: 290px;
+text-align: center;
+top: 170px;
+width: 300px;
+
+}
+
+}
+
+@media (max-width: 728px) {
+   
+   .form{
+position: absolute;
+left: 220px;
+text-align: center;
+top: 170px;
+width: 300px;
+
+}
+#canvas{
+
+position: absolute;
+left: 220px;
+}
+
+
+
+}
+
+@media (max-width: 576px) {
+   
+   .form{
+position: absolute;
+left: 120px;
+text-align: center;
+top: 170px;
+width: 300px;
+
+}
+#canvas{
+
+position: absolute;
+left: 120px;
+}
+
+}
+
+
+@media (max-width: 458px) {
+   
+   .form{
+position: absolute;
+left: 70px;
+text-align: center;
+top: 170px;
+width: 300px;
+
+}
+
+}
