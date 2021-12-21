@@ -93,6 +93,16 @@ text-align: center;
 top: 170px;
 width: 300px;
 }
+  
+  h3{
+    
+    position: absolute;
+left: 600px;
+top: 250px;
+
+width: 300px;
+height: 260px;
+}
 
 #canvas{
 
