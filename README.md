@@ -77,6 +77,14 @@
 • https://icons8.ru/icons/set/vk <br>
 • https://fonts.google.com/icons?selected=Material+Icons
 
+<h3> Walpaper </h3>
+•https://avatars.mds.yandex.net/i?id=135d68b13b6de8fd5095338e4a7c57c2-4478399-images-thumbs&n=13'
+•https://images.thequint.com/thequint%2F2019-10%2Fdfca05dd-5e4f-4877-9571-6fd043a71d16%2FiStock_1013435204.jpg?rect=0%2C0%2C2121%2C1193
+•http://wonderfulengineering.com/wp-content/uploads/2014/01/Technology-Wallpaper-12.jpg
+
+<h3> Button Gif </h3>
+•https://cdn.dribbble.com/users/1238709/screenshots/4069900/success_celebration_800x600.gif
+
 <h3> Conclusion </h4>
 <p>The site is very simple but very informative at the same time. </p>
 <p>Almost all css elements are used here and also on this site there is a very clear and easy admin panel.</p>
