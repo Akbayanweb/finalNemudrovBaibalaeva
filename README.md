@@ -13,7 +13,7 @@
 
 <h3> Description: </h3> On this site you can get acquainted with famous people of their work in the IT field.
 
-Links where the information was taken from:
+<p>Links where the information was taken from:</p>
 
 <h5> 1) Intervie.html</h5>
  • https://habr.com/ru/hub/interviews/  <br>
@@ -59,7 +59,7 @@ Links where the information was taken from:
 
 <h3>3) JS:</h3>  • https://cdn.jsdelivr.net/npm/typed.js@2.0.11
 
-<h3>4) jQuery:</h3> <br>
+<h3>4) jQuery:</h3> 
 • https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js<br>
 • https://cdnjs.cloudflare.com/ajax/libs/kute.js/1.6.1/kute.min.js
 
