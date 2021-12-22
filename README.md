@@ -85,6 +85,9 @@
 <h3> Button Gif </h3>
 •https://cdn.dribbble.com/users/1238709/screenshots/4069900/success_celebration_800x600.gif
 
+<h3> JS animation </h3>
+•https://cdn.jsdelivr.net/npm/typed.js@2.0.11
+
 <h3> Conclusion </h4>
 <p>The site is very simple but very informative at the same time. </p>
 <p>Almost all css elements are used here and also on this site there is a very clear and easy admin panel.</p>
